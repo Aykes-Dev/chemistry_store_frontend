@@ -1,0 +1,22 @@
+#headerH1 {
+    color: #28eac2 !important;
+    font-weight: 900;
+    letter-spacing: .1px;
+    line-height: 1;
+}
+
+#headerSale {
+    color: black;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+#buttonRedirectShop {
+    background-color: #28eac2;
+    height: 8vh;
+    width: 22vh;
+    font-size: x-large;
+    font-weight: bold;
+    border-color: #28eac2;
+    margin-top: 40px;
+}
